@@ -1,4 +1,4 @@
-manifest = "5ce9f38e25e0479978534595bc2ea951e8d891377f968227e8f835509b67c17c"
+manifest = "f754af443f4646c322481045715e1703325c1daf4d8e6ab53f791836bb0e9f86"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-concept_check"
@@ -14,7 +14,7 @@ target = "//:logic"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "fc4d65435c49b5b4fbbf0d4867ee8f69bfd42ef1"
+revision = "417f80abf86251b29609a9747dae7756236699aa"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
@@ -22,7 +22,7 @@ revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
-revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
+revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
@@ -54,7 +54,7 @@ revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "b8e0fcc49cede65c3b4ef18ed5aa797225578467"
+revision = "2146ff039c062639fa99fbd5e1b8b441adb5d5a8"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
