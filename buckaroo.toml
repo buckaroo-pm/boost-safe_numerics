@@ -1,0 +1,13 @@
+targets = [ "//:safe-numerics" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-concept_check"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-logic"
+version = "branch=master"

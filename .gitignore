@@ -1,0 +1,14 @@
+/doc/inspect.htm
+/**/*.log
+reporting/*/third_party
+reporting/*/html
+inspect.html
+/example/float128_examples.cpp
+test/cuda
+*.DS_Store
+.buckd
+buck-out
+buckaroo
+.buckconfig.local
+.buckconfig.d
+buckaroo_macros.bzl
