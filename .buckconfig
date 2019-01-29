@@ -7,3 +7,7 @@
 [cxx]
   should_remap_host_platform = true
   untracked_headers_whitelist = /usr/include/.*, /usr/lib/gcc/.*
+
+[cxx#macosx-x86_64]
+  should_remap_host_platform = true
+  cxxflags = -std=c++14
