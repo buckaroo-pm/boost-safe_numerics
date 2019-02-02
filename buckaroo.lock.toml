@@ -1,4 +1,4 @@
-manifest = "5ce9f38e25e0479978534595bc2ea951e8d891377f968227e8f835509b67c17c"
+manifest = "f754af443f4646c322481045715e1703325c1daf4d8e6ab53f791836bb0e9f86"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-concept_check"
@@ -14,27 +14,27 @@ target = "//:logic"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "fc4d65435c49b5b4fbbf0d4867ee8f69bfd42ef1"
+revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
-revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
+revision = "a1412ec177bb12170fc64a174c55b31cfee853e7"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
-revision = "60c77dd14f5bac2b9e6c59f308b7ad20d31f70ab"
+revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "82480080750b32b3ef2e3f12157b5c556ae35c0d"
+revision = "84411b155dae6f08ea749bdeb1e71aecd0718d52"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
-revision = "54bb4a90a75f96cc22e3376f8a3221f96aa80528"
+revision = "e8b834a93f7ba935aa63a3d6690804f3bd2b0963"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
-revision = "5badcf5b232a15e89d0701bef687ffbe70398696"
+revision = "43c7296e8513fcb9cda6e88396e863995c0d0cb5"
 
 [lock."github.com/buckaroo-pm/boost-logic"]
 versions = [ "branch=master" ]
@@ -42,20 +42,20 @@ revision = "9cfeb22c998a09ab2133714848ea8a64c2b910c0"
 
 [lock."github.com/buckaroo-pm/boost-mpl"]
 versions = [ "branch=master" ]
-revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
+revision = "a1873af9c1d31fb8ec2a87482b6bb9729439b4ac"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
-revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
-revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
+revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
-revision = "b8e0fcc49cede65c3b4ef18ed5aa797225578467"
+revision = "4d0a507c0d1a1011c5a98d57acc9f6b755141e4f"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
-revision = "57aa216434800315c9cd2664169e444e3070a677"
+revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
